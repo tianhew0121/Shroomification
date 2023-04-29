@@ -1,3 +1,3 @@
-# EE559 Projects - Shroomification
+# EE559 Project - Shroomification
 
 A model that classifies mushroom
